@@ -1,8 +1,8 @@
 # Python_Challenge
-Assignment _pyBank and pyPoll
+Assignment _PyBank and PyPoll
 
-main.py - Script 
+main.py - Scripts 
 
 Resources - CSV files
 
-Analysis - Txt output 
+Analysis - Txt outputs 
